@@ -21,7 +21,7 @@ export default Vue => {
     }
   })
 
-  // 注册全局组件
+  // 注册全局组件 
   _Vue.component(Link.name, Link)
   _Vue.component(View.name, View)
 
